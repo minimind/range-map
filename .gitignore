@@ -1,3 +1,4 @@
 *.o
 .idea
 *.swp
+test_rangemap
