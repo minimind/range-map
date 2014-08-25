@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
-#include "../intervalmap/rangemap.h"
+#include "../rangemap/rangemap.h"
 
 namespace {
 
